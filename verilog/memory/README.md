@@ -1,3 +1,4 @@
+### memory design and verification using verilog
 ## Design Description
 The memory is implemented using a register array.
 Write operation occurs on the positive edge of the clock when write enable is high.
